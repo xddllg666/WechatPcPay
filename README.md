@@ -10,4 +10,7 @@
  - 视频效果视频也发布了：[![Watch the video](http://std.superlist.yaodenglu.com/player_pic.jpg?t=1)](http://player.youku.com/embed/XNDQyNjk3MzIyMA==.html)
 
 ### 后期维护：
- - 我们将不定期更新到最新版本 2019.11.06
+ - 我们将不定期更新到最新版本2.6.8 2019.11.06
+ - 微信新版本的兼容性很强，一般能支持到最新版本
+ - 如果你们版本不可用，我们的原始官方微信版本下载地址：https://www.lanzous.com/i7a9uxe
+ 
