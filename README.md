@@ -7,7 +7,7 @@
 ### ------------------------------------------分割线-----------------------------------------------
 ### WechatPcPay：
  - 本项目已经部署到线下，可以点此在线测试：[点此可以查看回调效果](http://m.quanziliao.com/pcwct/) 
- - 视频效果视频也发布了：[![Watch the video](http://std.superlist.yaodenglu.com/player_pic.jpg)](http://player.youku.com/embed/XNDQyNjk3MzIyMA==.html)
+ - 视频效果视频也发布了：[![Watch the video](http://std.superlist.yaodenglu.com/player_pic.jpg?t=1)](http://player.youku.com/embed/XNDQyNjk3MzIyMA==.html)
 
 ### 后期维护：
  - 我们将不定期更新到最新版本 2019.11.06
